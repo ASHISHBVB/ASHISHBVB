@@ -1,9 +1,11 @@
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
-</div>
+### Hi there 👋
 
-&nbsp;<div align="center">
- <br><br>
-  [![Linkedin](https://www.linkedin.com/in/ashish-dhamane/)]
-  
-</div>
+I am ASHISH
+
+⏳ Year progress { ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 11.72 %
+
+---
+
+⏰ Updated on Wed, 12 Feb 2025 18:18:43 GMT
+
+![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
